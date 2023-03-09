@@ -25,6 +25,9 @@
 
 staff-hours:
   Monday:
+    - time: ['12:00', '13:00']
+      staff: ["grace"]
+      cancelled: true 
   Tuesday:
     - time: ['11:30', '12:30']
       staff: ["btorres"]
